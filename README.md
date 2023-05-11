@@ -1,5 +1,5 @@
 [![Chulapa live preview][2]][1]
-999
+
 [1]: https://dieghernan.github.io/chulapa/
 [2]: https://dieghernan.github.io/chulapa/assets/img/site/banner.png (live preview)
 
