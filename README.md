@@ -1,22 +1,22 @@
 [![Chulapa live preview][2]][1]
-
+999
 [1]: https://dieghernan.github.io/chulapa/
 [2]: https://dieghernan.github.io/chulapa/assets/img/site/banner.png (live preview)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/dieghernan/chulapa)
 ![Gem](https://img.shields.io/gem/v/chulapa-jekyll)
-![GitHub](https://img.shields.io/github/license/dieghernan/chulapa) 
-![Jekyll](https://img.shields.io/badge/jekyll-3.8.7-blue) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-4.5.0-blue) 
-![Fontawesome](https://img.shields.io/badge/fontawesome-6.x-blue) 
-![Algolia](https://img.shields.io/badge/algolia-4.x-blue) 
-![lunr](https://img.shields.io/badge/lunr-2.x-blue) 
-![mathjax](https://img.shields.io/badge/mathjax-3.x-blue) 
-![GHpages](https://img.shields.io/badge/gh--pages-ready-succes) 
-![google-analytics](https://img.shields.io/badge/google--analytics-ready-succes) 
-![disqus](https://img.shields.io/badge/disqus-ready-succes) 
-![social sharing](https://img.shields.io/badge/social--sharing-ready-succes) 
-![seo](https://img.shields.io/badge/seo-ready-succes) 
+![GitHub](https://img.shields.io/github/license/dieghernan/chulapa)
+![Jekyll](https://img.shields.io/badge/jekyll-3.8.7-blue)
+![Bootstrap](https://img.shields.io/badge/bootstrap-4.5.0-blue)
+![Fontawesome](https://img.shields.io/badge/fontawesome-6.x-blue)
+![Algolia](https://img.shields.io/badge/algolia-4.x-blue)
+![lunr](https://img.shields.io/badge/lunr-2.x-blue)
+![mathjax](https://img.shields.io/badge/mathjax-3.x-blue)
+![GHpages](https://img.shields.io/badge/gh--pages-ready-succes)
+![google-analytics](https://img.shields.io/badge/google--analytics-ready-succes)
+![disqus](https://img.shields.io/badge/disqus-ready-succes)
+![social sharing](https://img.shields.io/badge/social--sharing-ready-succes)
+![seo](https://img.shields.io/badge/seo-ready-succes)
 ![video](https://img.shields.io/badge/video--support-ok-succes)
 [![ko-fi](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/dieghernan)
 
@@ -110,7 +110,7 @@ To update the theme run `bundle update`.
 
 You have available an extensive documentation [here](https://dieghernan.github.io/chulapa/docs/01-install)
 
-## Performance 
+## Performance
 
 [![Performance](https://raw.githubusercontent.com/dieghernan/chulapa/master/github-metrics.svg)](https://pagespeed.web.dev/report?url=https://dieghernan.github.io/chulapa/)
 
@@ -145,4 +145,3 @@ This theme uses graphic resources from [Unplash](https://unsplash.com/@diegherna
 This theme uses graphic resources from [Pexels](https://www.pexels.com/@dieghernan-3081919/collections/).
 
 This theme uses graphic resources from [Lorem Picsum](https://picsum.photos/).
-
